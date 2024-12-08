@@ -1,5 +1,3 @@
-#GDSC git 테스트
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=challonsy&show_icons=true&theme=dracula)
 
-#자기소개
-
-안녕하세요 박채연입니다.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=challonsy&layout=compact&theme=dracula)
